@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "samplevs.sln"
+    "dotnet.defaultSolution": "Cannon-Shooter.sln"
 }
